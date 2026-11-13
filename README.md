@@ -8,7 +8,7 @@ This project focuses on analyzing AdventureWorks sales data to understand sales 
 - Conduct Exploratory Data Analysis (EDA).
 - Analyze sales performance.
 - Create meaningful data visualizations.
-- Develop an interactive Power BI dashboard.
+- Develop an interactive Power BI dashboard.o
 - Generate business insights and recommendations.
 
 ## Tools and Technologies
